@@ -1,0 +1,25 @@
+Average # of tweets @ 0 hrs:	0.0383561643836
+Average # of tweets @ 1 hrs:	0.0520547945205
+Average # of tweets @ 10 hrs:	0.0438356164384
+Average # of tweets @ 11 hrs:	0.0657534246575
+Average # of tweets @ 12 hrs:	0.0328767123288
+Average # of tweets @ 13 hrs:	0.041095890411
+Average # of tweets @ 14 hrs:	0.0547945205479
+Average # of tweets @ 15 hrs:	0.0356164383562
+Average # of tweets @ 16 hrs:	0.0246575342466
+Average # of tweets @ 17 hrs:	0.0712328767123
+Average # of tweets @ 18 hrs:	0.027397260274
+Average # of tweets @ 19 hrs:	0.0520547945205
+Average # of tweets @ 2 hrs:	0.0438356164384
+Average # of tweets @ 20 hrs:	0.0575342465753
+Average # of tweets @ 21 hrs:	0.0356164383562
+Average # of tweets @ 22 hrs:	0.0520547945205
+Average # of tweets @ 23 hrs:	0.0438356164384
+Average # of tweets @ 3 hrs:	0.0575342465753
+Average # of tweets @ 4 hrs:	0.0438356164384
+Average # of tweets @ 5 hrs:	0.00821917808219
+Average # of tweets @ 6 hrs:	0.0027397260274
+Average # of tweets @ 7 hrs:	0.0109589041096
+Average # of tweets @ 8 hrs:	0.00821917808219
+Average # of tweets @ 9 hrs:	0.03013698630136
+Hour of the day that @PrezOno tweets the most: 17	

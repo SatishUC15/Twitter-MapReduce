@@ -1,0 +1,9 @@
+Average Tweets on Friday :	0.75
+Average Tweets on Monday :	0.923076923077
+Average Tweets on Saturday :	1.01923076923
+Average Tweets on Sunday :	1.13461538462
+Average Tweets on Thursday :	1.03846153846
+Average Tweets on Tuesday :	0.634615384615
+Average Tweets on Wednesday :	1.05769230769
+
+Day of the week @PrezOno tweets the most :  Sunday	
